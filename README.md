@@ -12,10 +12,10 @@
 
 ```yaml
 name: Ander Barandiaran
-location: Madrid, Spain 🇪🇸
+location: Bilbao, Spain 🇪🇸
 university: Universidad de Deusto
 degree: Software Engineering
-languages: [Spanish, English]
+languages: [Spanish, English, Euskera]
 
 currently:
   - Building NetTools (network utility web toolkit)

@@ -46,6 +46,7 @@ strengths:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
@@ -78,13 +79,19 @@ Automation that watches a SharePoint folder for PDF invoices, extracts structure
 <td width="50%" valign="top">
 
 ### 🌐 NetTools
-**Personal project · Coming soon**
+**Personal project · Live at [nettools.engineer](https://nettools.engineer)**
 
-Web-based network utility toolkit. Public release in progress.
+Professional-grade network engineering toolkit built as a full-stack web platform. Open source under GPL v3.
 
-**Stack:** `[details on release]`
+What makes it interesting technically:
+- **Network algorithms from scratch** — IPv4 subnetting, VLSM allocation, CIDR summarization, wildcard mask calculation implemented in pure TypeScript without libraries, covering RFC 950, RFC 1519, RFC 3021
+- **127 unit tests** covering edge cases: /31 RFC 3021 point-to-point links, /32 host routes, RFC 1918 private ranges, non-contiguous mask validation
+- **Jamstack architecture** — Astro 4 SSG with React islands (zero JS by default, hydrated only when needed), deployed to Cloudflare Pages CDN
+- **Full CI/CD pipeline** — GitHub Actions with unit tests → E2E tests (Playwright) → Lighthouse performance gate → deploy to Cloudflare Pages
+- **8 interactive tools** — subnet calculator, VLSM planner, Cisco IOS script generator, topology simulator, IP converter, wildcard calculator, bandwidth calculator, CIDR summarizer
+- **18 technical articles** targeting networking keywords for organic SEO
 
-<br/>
+**Stack:** `Astro 4` `React` `TypeScript` `Tailwind CSS` `Cloudflare Pages` `GitHub Actions` `Playwright` `Vitest`
 
 ### 🏋️ LabLend
 **University · BSPQ26-E7**

@@ -37,7 +37,7 @@
 |---|---|---|---|
 | 🌐 | **[NetTools](https://nettools.engineer)** | Network engineering toolkit — subnet calc, VLSM, Cisco script gen, 8 tools, 127 tests, full CI/CD | `Astro` `React` `TypeScript` `Cloudflare` |
 | 🤖 | **Invoice Pipeline** | Watches SharePoint for PDFs → Claude API extracts data → writes to Excel. Production at Dominion Group | `Make.com` `Claude API` `SharePoint` `Azure AD` |
-| 🏋️ | **[LabLend](https://github.com/AnderBarandiaran/BSPQ26-E7)** | Lab equipment loans app · 128 tests · 80%+ coverage · CI/CD | `Spring Boot` `React` `JUnit` `Docker` |
+| 🏋️ | **[LabLend](https://github.com/BSPQ25-26/BSPQ26-E7.git)** | Lab equipment loans app · 128 tests · 80%+ coverage · CI/CD | `Spring Boot` `React` `JUnit` `Docker` |
 | 🗄️ | **DB Suite** | Neo4j + MongoDB + SQLite/C hotel system with sockets | `Neo4j` `MongoDB` `C/C++` |
 | 🌍 | **[Olimpiadas Web](https://github.com/AnderBarandiaran/proyectoWebOlimpiadas)** | Static Olympics site | `HTML` `CSS` |
 

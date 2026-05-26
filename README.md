@@ -125,7 +125,6 @@ Lab equipment loan manager. Spring Boot REST API + React frontend. **128 tests Â
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnderBarandiaran&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderBarandiaran&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

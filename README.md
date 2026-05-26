@@ -19,7 +19,7 @@
 ### 👤 Ander Barandiaran
 
 🎓 Software Engineering · Universidad de Deusto  
-📍 Bilbao → Madrid  
+📍 Bilbao → Spain 
 🔭 Building **[NetTools](https://nettools.engineer)** — network toolkit  
 ⚡ Automating invoice pipelines for a corporate group  
 🎯 Open to: internship / junior backend or automation role  
